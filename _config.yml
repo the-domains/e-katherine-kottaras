@@ -1,0 +1,28 @@
+name: E. Katherine Kottaras
+favicon: null
+layout_spectrum: 0.6249666910152882
+typography_spectrum: 0.9298417496029288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14217312796972692
+  lightness: 0.06109773204661906
+  saturation: 0.4503619766328484
+  rhythmicContrast: 0.22422763076610863
+purpose: []
